@@ -14,5 +14,5 @@ This information is about public repositories and may vary from the actual infor
 ![User info](https://github-readme-stats.vercel.app/api?username=angelcmhxd&count_private=true&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=angelcmhxd&count_private=true&theme=radical)
 
-### Contact / Contacto
-![Discord](https://img.shields.io/badge/Discord-AngelCMHxD%230727-blue)
+### Contact
+![Discord](https://img.shields.io/badge/Discord-AngelCMHxD%233357-blue)
