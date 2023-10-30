@@ -6,7 +6,7 @@ Hi, I'm Angel, I like programming with ![JavaScript](https://img.shields.io/badg
 - Play videogames
 - Programming
 - Watch videos on YT
-- Hell yeah, copy and paste code from stack overflow, just kidding.
+- Use stack overflow.
 - Talk on Discord.
 
 ## More info
